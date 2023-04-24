@@ -28,7 +28,7 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=spirit221&layout=compact&card_width=445&hide_border=true" />
 
 [instagram]: https://www.instagram.com/spirit223
-[linkedin]: https://www.linkedin.com/in/sergey-gusev-0818b0144/
+[linkedin]: https://www.linkedin.com/in/sergey-gusev-ios-dev/
 [git]: https://git-scm.com/
 [github]: https://github.com/
 [linux]: https://www.ibm.com/developerworks/ru/linux
